@@ -1,16 +1,16 @@
 {
-"name": "betflikvip168",
-"theme": "betflik vip168",
-"version": "6.8.1",
-"description": "betflik vip168 สมัครสมาชิกเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
-"keywords": [
-"betflik vip168",
-"betflik vip168 เครดิตฟรี",
-"betflik vip168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/betflikvip168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "betflikvip168",
+  "theme": "betflik vip168",
+  "version": "6.9.0",
+  "description": "betflik vip168 สมัครสมาชิกเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+  "keywords": [
+    "betflik vip168",
+    "betflik vip168 เครดิตฟรี",
+    "betflik vip168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/betflikvip168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
